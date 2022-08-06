@@ -20,7 +20,6 @@ const UserSchema = new Schema(
     img: {
       type: String,
     },
-
     subscribers: {
       type: Number,
       default: 0,
